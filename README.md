@@ -1,4 +1,4 @@
-# ITARLE_QUANTS
+# Analysing HFT Activities of 100 Scandinavian Blue Chip Stock Across 4 Days
 Itarle Quantitative Analyst Interview Task
 
 URL: https://itarle.com/data-set-tests/
