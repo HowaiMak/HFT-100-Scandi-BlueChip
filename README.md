@@ -1,9 +1,8 @@
-# Analysing HFT Activities of 100 Scandinavian Blue Chip Stock Across 4 Days
-Itarle Quantitative Analyst Interview Task
-
-URL: https://itarle.com/data-set-tests/
+# Statistical Metrics of 100 Scandinavian Blue Chip Stock Across 4 Days
 
 ## Outline
-This project presents a comprehensive analytical study of statistical metrics derived from a dataset containing 4 days’ worth of tick data for 100 Scandinavian blue-chip stocks. The dataset, accessed via AWS and organised into a substantial CSV file, was provided as part of a key recruitment task for Quantitative Analysts at Itarle. This task is designed to simulate the daily responsibilities of the Quantitative Strategies and Development Team.
+This report presents a comprehensive analytical study of statistical metrics de rived from a dataset containing four days’ worth of tick data for 100 Scandinavian blue-chip stocks. The dataset, sourced from AWS and structured as a large CSV file.
 
-The preprocessing and extraction of metrics from this dataset were executed using C++. The study focuses on several critical metrics: the time between trades, tick changes, bid-ask spreads, and the round number effect. By examining these parameters, the study aims to uncover patterns and inefficiencies within the market, thereby contributing valuable insights to both theoretical research and practical applications in algorithmic trading. This task not only provides a clearer understanding of the role but also reflects real-world analytical challenges encountered in the position.
+The preprocessing and metric extraction were implemented using C++, with the corresponding code attached at the end of this report. This study focuses on several critical metrics, including inter-trade times, tick changes, bid-ask spreads, and the round number effect.
+
+By analysing these metrics, the study aims to identify patterns and potential inefficiencies in the market, offering insights relevant to both theoretical research and practical algorithmic trading applications. This task serves to enhance the understanding of the role while addressing real-world analytical challenges commonly encountered in quantitative analysis.
