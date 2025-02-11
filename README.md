@@ -1,7 +1,41 @@
-# Statistical Metrics of 100 Scandinavian Blue Chip Stock Across 4 Days
+# Statistical Metrics of 100 Scandinavian Blue-Chip Stocks Across 4 Days  
 
-This report presents a comprehensive analytical study of statistical metrics de rived from a dataset containing four days’ worth of tick data for 100 Scandinavian blue-chip stocks. The dataset, sourced from AWS and structured as a large CSV file.
+**A Comprehensive Analysis of Tick Data for Market Insights**  
 
-The preprocessing and metric extraction were implemented using C++, with the corresponding code attached at the end of this report. This study focuses on several critical metrics, including inter-trade times, tick changes, bid-ask spreads, and the round number effect.
+*Quantitative Analysis of High-Frequency Trading Data*
 
-By analysing these metrics, the study aims to identify patterns and potential inefficiencies in the market, offering insights relevant to both theoretical research and practical algorithmic trading applications. This task serves to enhance the understanding of the role while addressing real-world analytical challenges commonly encountered in quantitative analysis.
+---
+
+## Project Overview
+This report presents a detailed analytical study of statistical metrics derived from a dataset containing **four days of tick data** for **100 Scandinavian blue-chip stocks**. The dataset, sourced from AWS, is structured as a large CSV file and processed using **C++** for efficient computation and metric extraction.
+
+### Key Objectives
+1. Analyze **inter-trade times** and **tick changes** to identify market patterns
+2. Measure **bid-ask spreads** to assess market liquidity
+3. Investigate the **round number effect** in stock prices
+4. Provide insights for **algorithmic trading strategies** and market efficiency studies
+
+---
+
+## Dataset Description
+- **Source:** AWS-hosted dataset
+- **Format:** Large CSV file
+- **Scope:** 100 Scandinavian blue-chip stocks
+- **Timeframe:** 4 consecutive trading days
+- **Data Points:** High-frequency tick data (price, volume, bid-ask spreads, etc.)
+
+---
+
+## Methodology
+### Metrics Extracted
+1. **Inter-Trade Times:** Time intervals between consecutive trades
+2. **Tick Changes:** Price movements between trades
+3. **Bid-Ask Spreads:** Difference between bid and ask prices
+4. **Round Number Effect:** Frequency of trades occurring at round price levels (e.g., $10.00, $15.00)
+
+### Tools and Technologies
+- **Programming Language:** C++
+- **Libraries:** Standard Template Library (STL) for data structures and algorithms
+- **Data Processing:** Custom-built C++ scripts for efficient handling of large datasets
+
+---
