@@ -1,4 +1,4 @@
-# Statistical Metrics of 100 Scandinavian Blue-Chip Stocks Across 4 Days  
+# Statistical Tick Data Metrics of 100 Scandinavian Blue-Chip Stocks Across 4 Days  
 
 **A Comprehensive Analysis of Tick Data for Market Insights**  
 
