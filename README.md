@@ -39,3 +39,5 @@ This report presents a detailed analytical study of statistical metrics derived 
 - **Data Processing:** Custom-built C++ scripts for efficient handling of large datasets
 
 ---
+
+Thank you for visiting! If you have any questions or feedback, feel free to reach out.
