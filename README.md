@@ -7,7 +7,7 @@
 ---
 
 ## Project Overview
-This report presents a detailed analytical study of statistical metrics derived from a dataset containing **four days of tick data** for **100 Scandinavian blue-chip stocks**. The dataset, sourced from AWS, is structured as a large CSV file and processed using **C++** for efficient computation and metric extraction.
+This report presents a detailed analytical study of statistical metrics derived from a dataset containing **four days of tick data** for **100 Scandinavian blue-chip stocks**. The dataset, sourced from [Itarle Quant Dataset](URL "https://itarle.com/data-set-tests/"), is structured as a large CSV file and processed using **C++** for efficient computation and metric extraction.
 
 ### Key Objectives
 1. Analyze **inter-trade times** and **tick changes** to identify market patterns
