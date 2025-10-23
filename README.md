@@ -3,7 +3,7 @@
 **A Comprehensive Analysis of Tick Data for Market Insights**  
 
 *Quantitative Analysis of High-Frequency Trading Data*
-
+Paper: https://www.researchgate.net/publication/396842589_Statistical_Tick_Metrics_of_100_Scandinavian_Blue_Chip_Stocks_Across_4_Days
 ---
 
 ## Project Overview
