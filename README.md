@@ -6,7 +6,7 @@
 
 ---
 
-Paper available at: [DOI: 10.13140/RG.2.2.28741.31208](https://www.researchgate.net/publication/397064384_Statistical_Tick_Metrics_of_100_Scandinavian_Blue_Chip_Stocks_Across_4_Days)
+Paper available at: Found Error in Code, rewriting...
 
 ## Project Overview
 This report presents a detailed analytical study of statistical metrics derived from a dataset containing **four days of tick data** for **100 Scandinavian blue-chip stocks**. The dataset, sourced from https://itarle.com/data-set-tests/, is structured as a large CSV file and processed using **C++** for efficient computation and metric extraction.
